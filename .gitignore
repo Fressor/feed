@@ -19,3 +19,7 @@ spec/dest
 .bundle
 spec/fixtures/.jekyll-metadata
 spec/fixtures/.jekyll-cache
+/srv
+/srv/jekyll
+/_site
+
